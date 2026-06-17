@@ -2,6 +2,8 @@ package ProjetoRA3;
 
 import ProjetoRA3.UI.AcademiaPanel;
 import ProjetoRA3.UI.AdminPanel;
+import ProjetoRA3.UI.GraduacaoPanel;
+import ProjetoRA3.UI.ModalidadePanel;
 import ProjetoRA3.UI.PlaceholderPanel;
 import javafx.application.Application;
 import javafx.geometry.Insets;
@@ -35,8 +37,16 @@ public class Main extends Application {
         Tab tabInstrutores = new Tab("Instrutores", new PlaceholderPanel().createPanel("Instrutores"));
         tabInstrutores.setStyle("-fx-text-base-color: #333;");
 
+
+        Tab tabGraduacoes = new Tab("Graduações", new GraduacaoPanel().createPanel());
+        tabGraduacoes.setStyle("-fx-text-base-color: #333;");
+
+
+        Tab tabModalidades = new Tab("Modalidades", new ModalidadePanel().createPanel());
+        tabModalidades.setStyle("-fx-text-base-color: #333;");
+
         //abas do TabPane
-        tabPane.getTabs().addAll(tabAcademias, tabAlunos, tabAdmins, tabInstrutores);
+        tabPane.getTabs().addAll(tabAcademias, tabAlunos, tabAdmins, tabInstrutores, tabGraduacoes, tabModalidades);
 
         BorderPane root = new BorderPane();
         root.setCenter(tabPane);
