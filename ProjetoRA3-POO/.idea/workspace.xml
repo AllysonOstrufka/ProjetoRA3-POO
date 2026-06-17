@@ -5,26 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0688e7e1-4ba0-4b3c-b84e-ebff22998872" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ProjetoRA3/ModelAluno/Aluno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ProjetoRA3/ModelAluno/AlunoRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ProjetoRA3/ModelAluno/ICrudRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ProjetoRA3/ModelAluno/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ProjetoRA3/ModelAluno/RetornoOperacao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ProjetoRA3/UI/AlunoPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/academias.dat" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ProjetoRA3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ProjetoRA3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ProjetoRA3/ModelAcademia/Academia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ProjetoRA3/ModelAcademia/SalaComercial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ProjetoRA3/ModelAcademia/AcademiaLuta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ProjetoRA3/ModelAcademia/AcademiaLuta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ProjetoRA3/ModelAcademia/ICrudRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ProjetoRA3/ModelAcademia/ICrudRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/ProjetoRA3/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ProjetoRA3/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProjetoRA3/ModelAcademia/Academia.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProjetoRA3/ModelAcademia/AcademiaLuta.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ProjetoRA3/ModelAcademia/AcademiaLuta.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProjetoRA3/ModelAcademia/AcademiaRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ProjetoRA3/ModelAcademia/AcademiaRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProjetoRA3/ModelAcademia/ICrudRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ProjetoRA3/ModelAcademia/ICrudRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProjetoRA3/ModelAcademia/RetornoOperacao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ProjetoRA3/ModelAcademia/RetornoOperacao.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/ProjetoRA3/UI/AcademiaPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ProjetoRA3/UI/AcademiaPanel.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/ProjetoRA3/UI/AdminPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ProjetoRA3/UI/AdminPanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ProjetoRA3/UI/AlunoPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ProjetoRA3/UI/AlunoPanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ProjetoRA3/UI/GraduacaoPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ProjetoRA3/UI/GraduacaoPanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ProjetoRA3/UI/ModalidadePanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ProjetoRA3/UI/ModalidadePanel.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/module-info.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/module-info.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,10 +32,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 6
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "goncalohenrique"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/AllysonOstrufka/ProjetoRA3-POO.git",
+    "accountId": "dd110d3f-3f52-4a84-8634-fd249f5f63e6"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="3FHUZ5PmVCggplg2lrajXmZhAPS" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -64,7 +65,7 @@
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/aostrufka/Documentos/ProjetoRA3-POO/ProjetoRA3-POO/pom.xml",
+    "last_opened_file_path": "/home/goncalo_henrique/Documents/JavaSpring/projeto_ra3POO/ProjetoRA3-POO",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -92,6 +93,14 @@
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.25134.95" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.25134.95" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
