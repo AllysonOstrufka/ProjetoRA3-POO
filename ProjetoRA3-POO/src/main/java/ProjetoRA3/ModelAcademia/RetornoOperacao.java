@@ -1,4 +1,4 @@
-package ProjetoRA3;
+package ProjetoRA3.ModelAcademia;
 
 public class RetornoOperacao {
     private String status;

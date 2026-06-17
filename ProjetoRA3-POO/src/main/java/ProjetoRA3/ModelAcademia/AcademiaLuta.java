@@ -1,4 +1,4 @@
-package ProjetoRA3;
+package ProjetoRA3.ModelAcademia;
 
 public class AcademiaLuta extends Academia {
     private static final long serialVersionUID = 1L;

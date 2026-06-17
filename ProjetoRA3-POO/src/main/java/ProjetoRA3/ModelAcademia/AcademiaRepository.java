@@ -1,4 +1,4 @@
-package ProjetoRA3;
+package ProjetoRA3.ModelAcademia;
 
 import java.io.*;
 import java.util.ArrayList;

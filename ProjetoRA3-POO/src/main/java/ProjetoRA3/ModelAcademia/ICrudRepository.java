@@ -1,5 +1,4 @@
-package ProjetoRA3;
-import java.io.Serializable;
+package ProjetoRA3.ModelAcademia;
 
 interface ICrudRepository<T extends Academia> {
     RetornoOperacao inserir(T entidade);
