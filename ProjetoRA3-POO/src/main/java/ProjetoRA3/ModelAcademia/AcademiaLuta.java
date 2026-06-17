@@ -1,6 +1,6 @@
 package ProjetoRA3.ModelAcademia;
 
-public class AcademiaLuta extends Academia {
+public class AcademiaLuta extends SalaComercial {
     private static final long serialVersionUID = 1L;
 
     private String nome;
