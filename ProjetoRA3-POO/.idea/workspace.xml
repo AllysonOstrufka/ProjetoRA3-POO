@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0688e7e1-4ba0-4b3c-b84e-ebff22998872" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/academias.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ProjetoRA3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ProjetoRA3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProjetoRA3/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ProjetoRA3/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProjetoRA3/UI/AcademiaPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ProjetoRA3/UI/AcademiaPanel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProjetoRA3/UI/AdminPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ProjetoRA3/UI/AdminPanel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProjetoRA3/UI/AlunoPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ProjetoRA3/UI/AlunoPanel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProjetoRA3/UI/GraduacaoPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ProjetoRA3/UI/GraduacaoPanel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProjetoRA3/UI/ModalidadePanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ProjetoRA3/UI/ModalidadePanel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/module-info.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/module-info.class" afterDir="false" />
-    </list>
+    <list default="true" id="0688e7e1-4ba0-4b3c-b84e-ebff22998872" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
