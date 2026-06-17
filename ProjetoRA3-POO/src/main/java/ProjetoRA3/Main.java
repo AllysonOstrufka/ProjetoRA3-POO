@@ -2,6 +2,7 @@ package ProjetoRA3;
 
 import ProjetoRA3.UI.AcademiaPanel;
 import ProjetoRA3.UI.AdminPanel;
+import ProjetoRA3.UI.AlunoPanel;
 import ProjetoRA3.UI.PlaceholderPanel;
 import javafx.application.Application;
 import javafx.geometry.Insets;
@@ -24,7 +25,7 @@ public class Main extends Application {
         tabAcademias.setStyle("-fx-text-base-color: #333;");
 
 
-        Tab tabAlunos = new Tab("Alunos", new PlaceholderPanel().createPanel("Alunos"));
+        Tab tabAlunos = new Tab("Alunos", new AlunoPanel().createPanel());
         tabAlunos.setStyle("-fx-text-base-color: #333;");
 
 

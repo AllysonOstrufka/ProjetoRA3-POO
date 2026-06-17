@@ -2,4 +2,6 @@ module ProjetoRA3 {
     requires javafx.controls;
     exports ProjetoRA3;
     exports ProjetoRA3.ModelAcademia;
+    exports ProjetoRA3.ModelAdmin;
+    exports ProjetoRA3.ModelAluno;
 }

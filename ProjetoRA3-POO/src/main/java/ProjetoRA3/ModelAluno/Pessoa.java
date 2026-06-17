@@ -1,8 +1,8 @@
-package ProjetoRA3.ModelAcademia;
+package ProjetoRA3.ModelAluno;
 
 import java.io.Serializable;
 
-abstract class Academia implements Serializable {
+abstract class Pessoa implements Serializable {
     private static final long serialVersionUID = 1L;
 
     protected Integer id;
