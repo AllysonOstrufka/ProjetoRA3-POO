@@ -4,29 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0688e7e1-4ba0-4b3c-b84e-ebff22998872" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ProjetoRA3/ModelAluno/Aluno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ProjetoRA3/ModelAluno/AlunoRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ProjetoRA3/ModelAluno/ICrudRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ProjetoRA3/ModelAluno/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ProjetoRA3/ModelAluno/RetornoOperacao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ProjetoRA3/UI/AlunoPanel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/academias.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ProjetoRA3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ProjetoRA3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ProjetoRA3/ModelAcademia/Academia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ProjetoRA3/ModelAcademia/SalaComercial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ProjetoRA3/ModelAcademia/AcademiaLuta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ProjetoRA3/ModelAcademia/AcademiaLuta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ProjetoRA3/ModelAcademia/ICrudRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ProjetoRA3/ModelAcademia/ICrudRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProjetoRA3/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ProjetoRA3/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProjetoRA3/ModelAcademia/Academia.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProjetoRA3/ModelAcademia/AcademiaLuta.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ProjetoRA3/ModelAcademia/AcademiaLuta.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProjetoRA3/ModelAcademia/AcademiaRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ProjetoRA3/ModelAcademia/AcademiaRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProjetoRA3/ModelAcademia/ICrudRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ProjetoRA3/ModelAcademia/ICrudRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProjetoRA3/ModelAcademia/RetornoOperacao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ProjetoRA3/ModelAcademia/RetornoOperacao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProjetoRA3/UI/AcademiaPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ProjetoRA3/UI/AcademiaPanel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProjetoRA3/UI/AdminPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ProjetoRA3/UI/AdminPanel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/module-info.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/module-info.class" afterDir="false" />
-    </list>
+    <list default="true" id="0688e7e1-4ba0-4b3c-b84e-ebff22998872" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
